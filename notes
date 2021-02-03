@@ -1,0 +1,5 @@
+To edit the font, go to the /etc/default/console-setup file and change the settings there.
+
+In this version of Linux, you can use the following command as well:
+	sudo dpkg-reconfigure console-setup
+
